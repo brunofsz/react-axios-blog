@@ -26,3 +26,7 @@ Este projeto é um blog desenvolvido em React que consome a API de testes JSONPl
 2. Entre na pasta do projeto  
 3. Instale as dependências com `npm install`  
 4. Execute o projeto com `npm start`
+   
+ OU
+ 
+1. Acesse ""https://axios-blog-rust.vercel.app/""
